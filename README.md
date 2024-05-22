@@ -1,4 +1,10 @@
 # Markdown-and-Git
+
+Caso Não Haja No Codigo README.MD o Comando Necessario, Busque no Documents Do GitLab
+
+[Documents GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br>
+
 Aprimorando Conhecimento em Markdown e Listando Comandos GIT Importantes!.
 
 # Principais Comandos do Git
