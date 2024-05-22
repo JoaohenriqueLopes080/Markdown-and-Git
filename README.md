@@ -24,11 +24,15 @@ Aprimorando Conhecimento em Markdown e Listando Comandos GIT Importantes!.
 
 - `git branch`: Lista todas as branches do repositório.
 - `git branch nome_da_branch`: Cria uma nova branch.
+- `git branch -d nome_da_branch` : Deletar uma branch
 - `git checkout nome_da_branch`: Muda para a branch especificada.
 - `git merge nome_da_branch`: Mescla a branch especificada na branch atual.
+- `git `
 
 ## Trabalhando com Repositórios Remotos
-
+- `git remote`: Mostra qual repositorio estamos conectados no momento - se não tiver nenhum conectado, não apareça nada.
 - `git remote add origin url_do_repositório`: Adiciona um repositório remoto.
 - `git push origin nome_da_branch`: Envia as alterações para o repositório remoto.
 - `git pull origin nome_da_branch`: Recebe as alterações do repositório remoto.
+
+## Trabalhando com 
