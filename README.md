@@ -40,3 +40,9 @@ Aprimorando Conhecimento em Markdown e Listando Comandos GIT Importantes!.
 - `git remote add origin url_do_repositório`: Adiciona um repositório remoto.
 - `git push origin branch_name`: Envia as alterações para o repositório remoto.
 - `git pull origin branch_name`: Recebe as alterações do repositório remoto.
+
+## Configurações Git 
+- `git config –list –show-origin`: Mostra Todas nossas Configurações feitas no Git.
+- `git config --global user.name`: Config Name.
+- `git config --global user.email`: Config Email.
+
